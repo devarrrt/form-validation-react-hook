@@ -1,0 +1,5 @@
+export { default as Form } from './Form'
+export { default as Input } from './Input'
+export { default as MainContainer } from './MainContainer'
+export { default as PrimaryButton} from './PrimaryButton'
+export { default as FileInput } from './FileInput' 
